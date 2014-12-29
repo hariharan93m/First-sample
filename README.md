@@ -3,4 +3,4 @@ First-sample
 
 first trial
 
-I love :coffee:,:pizza:.
+I love :coffee:,:pizza:,:dancer:.
